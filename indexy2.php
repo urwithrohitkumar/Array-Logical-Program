@@ -1,6 +1,6 @@
 <?php
 //longest consecutive sequence
-$temp1 = array();
+$temp1 = array();              /////new
 $temp2 = array();
 $a = [5,10,21,4,1,23,29,9,2,19,13,14,15,30,18,11,20,3,22,28,24,26,27,6,8,17];
 $a_length = count($a);
